@@ -1,0 +1,3 @@
+CPU Usage: 3.6%
+RAM Usage: 82.1%
+Execution Time: 292144.93327379227 seconds
